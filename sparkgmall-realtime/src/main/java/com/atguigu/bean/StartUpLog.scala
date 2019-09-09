@@ -1,4 +1,4 @@
-package com.atguigu.log
+package com.atguigu.bean
 
 case class StartUpLog(mid:String,
                       uid:String,
